@@ -42,7 +42,8 @@ return 0;
 ```
 
 ## Output:
-<img width="520" height="212" alt="image" src="https://github.com/user-attachments/assets/cb591f8c-048d-4e8d-b18e-e35995ebad20" />
+<img width="1097" height="321" alt="image" src="https://github.com/user-attachments/assets/262696e7-d850-4fea-85fa-1b2488bc4731" />
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
