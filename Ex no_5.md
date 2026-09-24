@@ -20,30 +20,23 @@ To write a C program to calculate the total marks, average, and percentage of ma
 ## Program:
 ```
 #include <stdio.h>
-
-int main() {
-
-Int subi, sub2, sub3, total;
-
-float average,
-
-scanf("%d %d %d", &sub1, &sub2, &sub3);
-
-total subl sub2 sub3;
-
-average total / 3.0;
-
-printf("\nTotal: %d\n", total);
-
-print("Average: %.2f\n", average);
-
-return 0;
-
+int main()
+{
+    float a,b,c,d,e,f;
+    float total,average,percentage;
+    scanf("%f%f%f%f%f%f",&a,&b,&c,&d,&e,&f);
+    total = a+b+c+d+e+f;
+    average = (a+b+c+d+e+f)/6.0;
+    percentage = (total/600)*100;
+    printf("Total marks = %.2f\n",total);
+    printf("Average marks = %.2f\n",average);
+    printf("Percentage = %.2f\n",percentage);
+    return 0;
 }
 ```
 
 ## Output:
-<img width="385" height="147" alt="image" src="https://github.com/user-attachments/assets/8f243ad9-7c2e-48f3-80d0-ec33434dce86" />
+<img width="1145" height="442" alt="image" src="https://github.com/user-attachments/assets/63ced4bc-c9e6-4d11-ba44-8aeb8de00b6f" />
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
